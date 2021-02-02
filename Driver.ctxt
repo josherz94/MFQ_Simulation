@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Driver
-comment0.text=\r\n\ Main\ driver\ class\ that\ makes\ corresponding\ method\ calls\ to\ the\ MFQ\ class\ to\ run\ the\ simulation.\r\n\r\n\ @author\ Joshua\ Matson\ id\#\ 012024010\r\n\ @version\ 4/5/2019\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Main\ method\ of\ the\ queue\ simulation\r\n
-numComments=2
